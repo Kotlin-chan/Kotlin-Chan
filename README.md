@@ -3,7 +3,7 @@
     <h1><b>Hello ✌️</b></h1>
 </div>
 
-<p align="center">A backend engineer writing <a href="https://java.com">Java</a> and <a href="https://kotlinlang.org">Kotlin</a> for 6 years.</p>
+<p align="center">A backend and security engineer writing <a href="https://java.com">Java</a> and <a href="https://kotlinlang.org">Kotlin</a> for 6 years.</p>
 
 <div align="center">
     <img src="https://img.shields.io/static/v1?label=Version&message=v1.0.0&style=flat-square&color=blueviolet" alt="version">
